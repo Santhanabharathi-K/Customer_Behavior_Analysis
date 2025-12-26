@@ -21,6 +21,7 @@ Shopping behavior: Discount Applied, Promo Code Used, Previous Purchases, Purcha
 
 Missing Data: 37 missing values in the Review Rating column
 
+
 🧹 Data Cleaning & Preparation (Python)
 
 Handled missing values using appropriate imputation techniques
@@ -33,6 +34,7 @@ Engineered new features to enhance analytical insights
 
 Prepared a clean dataset for SQL and dashboard analysis
 
+
 🔍 Exploratory Data Analysis (EDA)
 
 Analyzed customer spending behavior across product categories
@@ -42,6 +44,7 @@ Identified high-value customers and frequent buyers
 Studied seasonal trends and discount impact
 
 Explored subscription vs non-subscription purchasing patterns
+
 
 🗄️ Database Integration
 
@@ -80,6 +83,7 @@ Highlighted subscription customers as higher-value segments
 
 Detected seasonal patterns influencing sales performance
 
+
 📌 Business Recommendations
 
 Target high-value customers with personalized offers
@@ -89,6 +93,7 @@ Optimize discount strategies based on purchase frequency
 Focus marketing efforts on high-performing categories
 
 Strengthen subscription programs to improve retention
+
 
 🛠️ Tech Stack
 
