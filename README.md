@@ -1,5 +1,6 @@
 # Customer_Behavior_Analysis
 🛒 Customer Shopping Behavior Analysis
+---------------------------------------
 📌 Project Overview
 
 This project analyzes 3,900+ transactional customer records to uncover insights into spending patterns, customer segmentation, product preferences, and subscription behavior.
